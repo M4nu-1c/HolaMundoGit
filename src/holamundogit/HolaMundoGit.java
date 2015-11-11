@@ -15,6 +15,8 @@ public class HolaMundoGit {
        
        System.out.println("Hola mundo");
        System.out.println("Rojo");
+       System.out.println("Azul");
+       System.out.println("Verde");
         
     }
     
